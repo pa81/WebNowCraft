@@ -91,10 +91,10 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 
    Special Thanks:
 
-  Spicetify & WebNowPlaying-Redux for the backend logic.
-  Spicetify: https://github.com/spicetify
-  WebNowPlaying: https://github.com/keifufu/WebNowPlaying
-  Fabric Community for the modding toolchain.
+  Spicetify & WebNowPlaying-Redux for the backend logic.<br>
+  Spicetify: https://github.com/spicetify<br>
+  WebNowPlaying: https://github.com/keifufu/WebNowPlaying<br>
+  Fabric Community for the modding toolchain.<br>
         
 
 📄 ライセンス (License)
