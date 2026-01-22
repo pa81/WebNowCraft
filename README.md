@@ -49,8 +49,7 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 2.  **[Fabric API](https://modrinth.com/mod/fabric-api)**
 3.  **[Cloth Config API](https://modrinth.com/mod/cloth-config)** (設定画面用)
 4.  **[Mod Menu](https://modrinth.com/mod/modmenu)** (推奨: 設定画面へのアクセス用)
-5.  **Spotify Desktop App** + **Spicetify CLI**
-
+5.  **Spotify Desktop App** + **Spicetify CLI** or WNPがインストールされたブラウザー 
 ## 🚀 インストール方法 (Installation)
 
 ### 1. Spicetifyのセットアップ (Spotifyの場合)
