@@ -63,9 +63,9 @@ spicetify config extensions webnowplaying.js
 spicetify apply
 
 ### 1.2 YOUTUBE,Twitch etc...の場合
-1.(Firefox)https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/
-1.2 (Chrome)https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli
-2. Enjoy!!
+1.(Firefox)https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/<br>
+1.2 (Chrome)https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli<br>
+2. Enjoy!!<br>
 
 2. Modの導入
 
