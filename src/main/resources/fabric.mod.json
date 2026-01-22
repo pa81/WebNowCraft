@@ -8,7 +8,8 @@
     "pa81"
   ],
   "contact": {
-    "homepage": "https://github.com/pa81"
+    "homepage": "https://github.com/pa81/WebNowCraft",
+    "issues": "https://github.com/pa81/WebNowCraft/issues"
   },
   "license": "MIT",
   "icon": "assets/webnowcraft/icon.png",
