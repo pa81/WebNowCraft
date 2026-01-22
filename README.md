@@ -1,7 +1,7 @@
 # 🎵 Webnowcraft
 
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-beige?style=flat-square&logo=fabric)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-green?style=flat-square&logo=minecraft)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.19.4%20%7C%201.20.1%20%7C%201.21.4-green?style=flat-square&logo=minecraft)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 **Webnowcraft** は、Minecraftのプレイ画面上に **Spotifyの再生情報（Now Playing）{WebNowPlayingなら何でも)** をリアルタイムで表示するクライアントサイドModです。
@@ -45,7 +45,7 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 
 このModを使用するには、以下の環境が必要です。
 
-1.  **Minecraft 1.21.4 (Fabric)**
+1.  **Minecraft 1.21.4 or 1.20.1 or 1.19.4 (Fabric)**
 2.  **[Fabric API](https://modrinth.com/mod/fabric-api)**
 3.  **[Cloth Config API](https://modrinth.com/mod/cloth-config)** (設定画面用)
 4.  **[Mod Menu](https://modrinth.com/mod/modmenu)** (推奨: 設定画面へのアクセス用)
