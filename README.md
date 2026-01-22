@@ -4,7 +4,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-green?style=flat-square&logo=minecraft)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-**Webnowcraft** は、Minecraftのプレイ画面上に **Spotifyの再生情報（Now Playing）** をリアルタイムで表示するクライアントサイドModです。
+**Webnowcraft** は、Minecraftのプレイ画面上に **Spotifyの再生情報（Now Playing）{WebNowPlayingなら何でも)** をリアルタイムで表示するクライアントサイドModです。
 SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲名、アーティスト名、プログレスバーをスタイリッシュに描画します。
 
 <!-- 
@@ -53,7 +53,7 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 
 ## 🚀 インストール方法 (Installation)
 
-### 1. Spicetifyのセットアップ (必須)
+### 1. Spicetifyのセットアップ (Spotifyの場合)
 このModは、Spotifyから情報を取得するために **Spicetify** とその拡張機能 **WebNowPlaying** が必要です。
 
 1.  [Spicetify CLI](https://spicetify.app/docs/getting-started) をインストールします。
@@ -61,6 +61,11 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 
 spicetify config extensions webnowplaying.js
 spicetify apply
+
+### 1.2 YOUTUBE,Twitch etc...の場合
+1.(Firefox)https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/
+1.2 (Chrome)https://chromewebstore.google.com/detail/webnowplaying/jfakgfcdgpghbbefmdfjkbdlibjgnbli
+2. Enjoy!!
 
 2. Modの導入
 
@@ -74,11 +79,11 @@ spicetify apply
 
 ゲーム内で Mod Menu のMod一覧から Webnowcraft を探し、設定ボタン（⚙️）を押すと以下の項目を変更できます。
 
-    X Offset / Y Offset: 画面端からの表示位置を調整します。
+   X Offset / Y Offset: 画面端からの表示位置を調整します。
 
-    Scale: HUDの大きさを 50% ~ 200% の間で変更します。
+  Scale: HUDの大きさを 50% ~ 200% の間で変更します。
 
-    Anchor Top-Left: ONにすると左上基準、OFFにすると右上基準で配置します。
+  Anchor Top-Left: ONにすると左上基準、OFFにすると右上基準で配置します。
 
 🤝 クレジット (Credits)
 
@@ -87,8 +92,9 @@ spicetify apply
     Special Thanks:
 
         Spicetify & WebNowPlaying-Redux for the backend logic.
-
+        https://github.com/keifufu/WebNowPlaying
         Fabric Community for the modding toolchain.
+        
 
 📄 ライセンス (License)
 
