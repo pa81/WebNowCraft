@@ -59,8 +59,8 @@ SpicetifyのWebNowPlaying拡張機能と連携し、アルバムアート、曲�
 1.  [Spicetify CLI](https://spicetify.app/docs/getting-started) をインストールします。
 2.  以下のコマンドを実行して、WebNowPlaying拡張機能を導入・有効化します。
 
-spicetify config extensions webnowplaying.js
-spicetify apply
+        spicetify config extensions webnowplaying.js
+        spicetify apply
 
 ### 1.2 YOUTUBE,Twitch etc...の場合
 1. (Firefox)https://addons.mozilla.org/en-US/firefox/addon/webnowplaying/<br>
@@ -87,13 +87,14 @@ spicetify apply
 
 🤝 クレジット (Credits)
 
-    Author: pa81
+  Author: pa81
 
-    Special Thanks:
+   Special Thanks:
 
-        Spicetify & WebNowPlaying-Redux for the backend logic.
-        https://github.com/keifufu/WebNowPlaying
-        Fabric Community for the modding toolchain.
+  Spicetify & WebNowPlaying-Redux for the backend logic.
+  Spicetify: https://github.com/spicetify
+  WebNowPlaying: https://github.com/keifufu/WebNowPlaying
+  Fabric Community for the modding toolchain.
         
 
 📄 ライセンス (License)
